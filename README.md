@@ -1,4 +1,4 @@
-![Hi](assets/mdpng/1.png)
+![Hi](https://github.com/senithfox/senithlokitha.tk/blob/main/1.png)
 
 # Welcome TO My  Website Repo 👋👋👋👋👋👋👋
 
@@ -18,7 +18,7 @@
 
 # Trademark ™
 
-  ![image](assets/mdpng/2.png)
+  ![image](https://github.com/senithfox/senithlokitha.tk/blob/main/2.png)
 
   * you can copy this repo but yuo can't be dev.
   * 💔 please add star ⭐⭐ and follow me 💔 
@@ -28,6 +28,6 @@
 
 # Bye 🔥
 
-![image](assets/mdpng/3.png)
+![image](https://github.com/senithfox/senithlokitha.tk/blob/main/3.png)
 
 # please add star ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
